@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'IRANSansBold';
+  font-style: normal;
+  font-weight: bold;
+  src: local('IRANSansBold'), url('./../src/font/Fontsite/IRANSansBold.ttf') format('truetype');
+}
+
